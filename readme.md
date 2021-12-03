@@ -1,9 +1,7 @@
-Testes PHP
+# Testes PHP :woman_technologist:
 
-1 - Função SeculoAno($ano)
+- Função SeculoAno($ano)
 
-2 -Função PrimoInferior($num)
-
-3 - Escreva um programa
-
-4 - Função SequenciaCrescente($array)
+- Função PrimoInferior($num)
+- Escreva um programa
+- Função SequenciaCrescente($array)
